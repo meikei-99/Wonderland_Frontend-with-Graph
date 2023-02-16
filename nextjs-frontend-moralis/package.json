@@ -1,0 +1,49 @@
+{
+  "name": "nextjs-frontend-moralis",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.7.1",
+    "@chakra-ui/button": "^2.0.12",
+    "@chakra-ui/icon": "^3.0.12",
+    "@chakra-ui/media-query": "^3.2.8",
+    "@chakra-ui/menu": "^2.1.4",
+    "@chakra-ui/react": "^2.4.1",
+    "@heroicons/react": "^2.0.13",
+    "@react-spring/parallax": "^9.6.1",
+    "@react-three/drei": "^9.56.19",
+    "@react-three/fiber": "^8.11.0",
+    "@web3uikit/core": "^0.2.20",
+    "gasp": "^0.0.2",
+    "graphql": "^16.6.0",
+    "gsap": "^3.11.4",
+    "moralis": "^2.7.2",
+    "next": "13.0.3",
+    "nextjs-components": "^1.0.0",
+    "react": "^18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.7.1",
+    "react-image-magnify": "^2.7.4",
+    "react-moralis": "^1.4.2",
+    "react-reveal": "^1.2.2",
+    "react-scroll-parallax": "^3.3.2",
+    "react-simple-typewriter": "^5.0.1",
+    "react-spinners": "^0.13.8",
+    "swiper": "^9.0.5",
+    "three": "^0.149.0",
+    "typewriter-effect": "^2.19.0",
+    "web3uikit": "^1.0.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.19",
+    "prettier": "^2.7.1",
+    "tailwindcss": "^3.2.4"
+  }
+}
